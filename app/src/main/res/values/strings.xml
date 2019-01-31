@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="button_text">Click me</string>
+    <string name="favorite_tab_text">Favorite</string>
+    <string name="my_music_tab_text">My Music</string>
+    <string name="discover_tab_text">DISCOVER</string>
+
 </resources>
